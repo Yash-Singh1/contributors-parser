@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "coffee -c index.coffee",
-    "prepublish": "npm run build"
+    "prepublishOnly": "npm run build"
   },
   "keywords": [
     "contributors",
