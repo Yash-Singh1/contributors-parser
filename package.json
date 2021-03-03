@@ -1,0 +1,19 @@
+{
+  "name": "contributors-parser",
+  "version": "1.0.0",
+  "description": "Parse contributors",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx coffee -c index.coffee",
+    "prepublish": "npm run build"
+  },
+  "keywords": [
+    "contributors",
+    "parser"
+  ],
+  "author": "Yash Singh",
+  "license": "MIT",
+  "devDependencies": {
+    "coffeescript": "^2.5.1"
+  }
+}
