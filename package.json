@@ -4,7 +4,7 @@
   "description": "Parse contributors",
   "main": "index.js",
   "scripts": {
-    "build": "npx coffee -c index.coffee",
+    "build": "coffee -c index.coffee",
     "prepublish": "npm run build"
   },
   "keywords": [
