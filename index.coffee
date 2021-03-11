@@ -1,4 +1,6 @@
 parseContributors = (value) ->
+  if value is ''
+    return []
   value
     .split '\n'
     .map(
