@@ -1,0 +1,42 @@
+[
+  {
+    "type": "comment",
+    "value": " hello",
+    "raw": "# hello"
+  },
+  {
+    "type": "comment",
+    "value": " you are looking at",
+    "raw": "# you are looking at"
+  },
+  {
+    "type": "comment",
+    "value": " my comments",
+    "raw": "# my comments"
+  },
+  {
+    "type": "newline",
+    "value": "",
+    "raw": ""
+  },
+  {
+    "type": "newline",
+    "value": "",
+    "raw": ""
+  },
+  {
+    "type": "newline",
+    "value": "",
+    "raw": ""
+  },
+  {
+    "type": "comment",
+    "value": " and 200 newlines",
+    "raw": "# and 200 newlines"
+  },
+  {
+    "type": "newline",
+    "value": "",
+    "raw": ""
+  }
+]

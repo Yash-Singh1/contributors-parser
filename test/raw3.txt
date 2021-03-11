@@ -1,0 +1,5 @@
+# here is all our contributors (not really)
+john <smith@example.com>
+iamanotherone <hello@example.org>
+anothercontributortotally <me@example.net>
+bot[bot] <bot@sub.example.com>

@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "coffee -c index.coffee",
+    "test": "coffee test/index.coffee",
     "prepublishOnly": "npm run build"
   },
   "keywords": [
@@ -14,7 +15,8 @@
   "author": "Yash Singh",
   "license": "MIT",
   "devDependencies": {
-    "coffeescript": "^2.5.1"
+    "coffeescript": "^2.5.1",
+    "ora": "^5.3.0"
   },
   "homepage": "https://github.com/Yash-Singh1/contributors-parser#readme",
   "repository": {

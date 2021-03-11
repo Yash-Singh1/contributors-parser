@@ -1,0 +1,39 @@
+[
+  {
+    "type": "comment",
+    "value": " here is all our contributors (not really)",
+    "raw": "# here is all our contributors (not really)"
+  },
+  {
+    "type": "contributor",
+    "value": {
+      "name": "john",
+      "email": "smith@example.com"
+    },
+    "raw": "john <smith@example.com>"
+  },
+  {
+    "type": "contributor",
+    "value": {
+      "name": "iamanotherone",
+      "email": "hello@example.org"
+    },
+    "raw": "iamanotherone <hello@example.org>"
+  },
+  {
+    "type": "contributor",
+    "value": {
+      "name": "anothercontributortotally",
+      "email": "me@example.net"
+    },
+    "raw": "anothercontributortotally <me@example.net>"
+  },
+  {
+    "type": "contributor",
+    "value": {
+      "name": "bot[bot]",
+      "email": "bot@sub.example.com"
+    },
+    "raw": "bot[bot] <bot@sub.example.com>"
+  }
+]

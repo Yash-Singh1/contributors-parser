@@ -22,3 +22,9 @@ To build the coffeescript:
 ```sh
 npm run build
 ```
+
+To run the tests:
+
+```sh
+npm run test
+```
