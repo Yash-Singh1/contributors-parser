@@ -5,7 +5,7 @@ Parses `CONTRIBUTORS` file-like syntax.
 ## Installation
 
 ```sh
-npm install --save contributors-parser
+npm install contributors-parser
 ```
 
 ## API
