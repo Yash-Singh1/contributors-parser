@@ -1,6 +1,6 @@
 {
   "name": "contributors-parser",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parse contributors",
   "main": "index.js",
   "scripts": {
