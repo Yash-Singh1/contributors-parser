@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "coffee -c index.coffee",
-    "test": "coffee test/index.coffee",
+    "test": "coffee --output test/index.mjs test/index.coffee && node test/index.mjs",
     "prepublishOnly": "npm run build"
   },
   "keywords": [

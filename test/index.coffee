@@ -1,8 +1,8 @@
-assert = require 'assert'
-fs = require 'fs'
-path = require 'path'
-parseContributors = require '..'
-ora = require 'ora'
+import assert from 'assert'
+import fs from 'fs'
+import path from 'path'
+import parseContributors from '../index.js'
+import ora from 'ora'
 
 spinner1 = ora('Reading test files').start()
 files = fs
