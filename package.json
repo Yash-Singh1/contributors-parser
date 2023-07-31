@@ -16,7 +16,7 @@
   "license": "MIT",
   "devDependencies": {
     "coffeescript": "^2.5.1",
-    "ora": "^6.0.0"
+    "ora": "^7.0.0"
   },
   "homepage": "https://github.com/Yash-Singh1/contributors-parser#readme",
   "repository": {
